@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! Please look through my profile to see my collection of projects and achievements
+
+- :minidisc: I’m currently working on a website to showcase my musical projects
+- :page_facing_up: I’m currently learning fullstack development
+- :computer: Personal portfolio coming soon...
+
+Review my LinkedIn page [here](https://www.linkedin.com/in/anthonyincorvati)
 
 <!--
 **TonyInc22/TonyInc22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
