@@ -5,8 +5,5 @@
 - :computer: Major in computer sciences
 - :triangular_ruler: Minor in mathematics
 - :bread: Programmer Analyst for Martin's Famous Pastry Shoppe, Inc.
-- :video_game: Mario fanatic
-- :control_knobs: Music producer
-- :clipboard: Many more projects to come...
 
 Review my LinkedIn page [here](https://www.linkedin.com/in/anthonyincorvati)
